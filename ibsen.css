@@ -37,3 +37,21 @@
     font-family: monospace;
     font-size: medium;
 }
+
+table{
+    border-collapse: collapse;
+    border-spacing: 2;
+    width: 90%;
+    margin: 25px 50px 75px;
+    border: 1px solid #080d0e;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+    border: 1px solid #080d0e;
+  }
+
+tr:nth-child(even) {
+    background-color: #afd8e0;
+  }
