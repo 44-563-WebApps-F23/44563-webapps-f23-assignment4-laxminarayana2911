@@ -55,3 +55,6 @@ th, td {
 tr:nth-child(even) {
     background-color: #afd8e0;
   }
+  .second{
+    text-shadow: 2px 2px 5px rgb(217, 220, 17);
+  }
