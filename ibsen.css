@@ -56,4 +56,6 @@ th, td {
 tr:nth-child(even) {
     background-color: #afd8e0;
   }
-  
+  nav {
+    display: block;
+  }
